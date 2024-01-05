@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.primary-color{
+    color: #FD6E0A;
+}
+.nav-title{
+    font-size: 45px;
+    font-weight: 800;
+    line-height: normal;
+}
+nav{
+    display: flex;
+}
+nav > ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+}
